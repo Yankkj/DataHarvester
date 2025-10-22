@@ -1,0 +1,12 @@
+browser_cookie3
+pycryptodome
+discord-webhook
+browser-history
+prettytable
+getmac
+psutil
+py-cpuinfo
+pyautogui
+pywin32
+lz4
+requests
