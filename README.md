@@ -1,7 +1,5 @@
 # DataHarvester
 
-A comprehensive data collection tool for **educational and security testing purposes**.
-
 ## ⚠️ Disclaimer
 > This tool is for **EDUCATIONAL PURPOSES ONLY**. Use only on systems you own or have explicit permission to test. The developer is not responsible for any misuse.
 
@@ -15,7 +13,7 @@ A comprehensive data collection tool for **educational and security testing purp
 - Payment information detection
 
 ## Exemple
-![Example](images/image.png)
+![Example](image/image.png)
 
 ## Installation
 
