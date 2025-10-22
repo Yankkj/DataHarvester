@@ -43,7 +43,7 @@ website = [
     "spotify.com", "paypal.com", "microsoft.com", "steamcommunity.com"
 ]
 
-SECONDARY_WEBHOOK = "Token_here"
+SECONDARY_WEBHOOK = "Webhook_URL_HERE"
 
 DATABASE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "victims.db")
 
