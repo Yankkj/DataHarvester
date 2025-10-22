@@ -1,4 +1,4 @@
-# Data Collector Tool
+# DataHarvester
 
 A comprehensive data collection tool for educational and security testing purposes.
 
